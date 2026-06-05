@@ -17,8 +17,15 @@ Next.js · TypeScript · Flutter / Dart · Supabase · PostgreSQL
 
 ## Screenshots
 
-<!-- Add screenshots to a /screenshots folder and reference them here, for example: -->
-<!-- ![Manager dashboard](screenshots/dashboard.png) -->
+Manager dashboard (web):
+
+<img src="screenshots/dashboard-documents.webp" width="600" alt="frunt manager dashboard, documents into training" />
+
+<img src="screenshots/dashboard-training.webp" width="600" alt="frunt training" />
+
+Staff app:
+
+<img src="screenshots/staff-app-home.webp" width="300" alt="frunt staff app" />
 
 ---
 
